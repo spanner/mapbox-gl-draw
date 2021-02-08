@@ -90,8 +90,8 @@
     "mapbox-gl": ">=0.27.0"
   },
   "dependencies": {
-    "@mapbox/geojson-area": "^0.2.1",
-    "@mapbox/geojson-extent": "^0.3.2",
+    "@mapbox/geojson-area": ">0.2.0",
+    "@mapbox/geojson-extent": ">0.3.0",
     "@mapbox/geojson-normalize": "0.0.1",
     "@mapbox/geojsonhint": "3.0.0",
     "@mapbox/point-geometry": "0.1.0",
